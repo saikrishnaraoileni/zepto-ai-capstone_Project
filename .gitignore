@@ -15,5 +15,6 @@ env/
 .DS_Store
 Thumbs.db
 
+
 # ChromaDB local persistence (regenerate via ingest.py instead of committing)
 support_assistant/chroma_db/
